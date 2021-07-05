@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(49, 49, 49);
+    font: normal 14pt Arial;
+}
+
+header{
+    text-align: center;
+    color: rgb(183, 255, 67);
+}
+
+section{
+    background-color: rgb(255, 247, 254);
+    border-radius: 10px;
+    padding: 10px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 3px 3px 10px rgb(54, 54, 54);
+}
+
+#botao{
+    margin: auto;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+footer {
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-style: italic;
+    margin-top: 20px;
+    font-size:11pt;
+}
+
+#res{
+    padding: 5px;
+}
+
+#author{
+    color: rgb(183, 255, 67);
+}
